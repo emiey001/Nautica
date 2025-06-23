@@ -3,8 +3,8 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "0ac3408d.astralciper.pages.dev"; // Ganti dengan domain utama kalian
-const serviceName = "0ac3408d"; // Ganti dengan nama workers kalian
+const rootDomain = "astralciper.pages.dev"; // Ganti dengan domain utama kalian
+const serviceName = "ggwp.baalxei.eu.org"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
